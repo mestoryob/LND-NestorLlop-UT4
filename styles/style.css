@@ -24,4 +24,8 @@ h1,h4
     color: black;
     box-shadow: 2px black;
 }
+
+.carousel-control-prev,.carousel-control-next
+{
+    width:50%;
 }
