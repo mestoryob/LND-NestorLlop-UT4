@@ -20,5 +20,8 @@ h1,h4
 
 .carousel-caption
 {
-    background-color: rgba(0,0,0,0.35);
+    background-color: white;
+    color: black;
+    box-shadow: 2px black;
+}
 }
