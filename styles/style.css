@@ -1,0 +1,14 @@
+*
+{
+    font-family:Roboto Mono;
+}
+
+h1
+{
+    font-family: Poppins;
+}
+
+.container, carousel
+{
+    margin-top: 40px;
+}
