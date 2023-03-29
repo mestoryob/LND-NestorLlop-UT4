@@ -29,3 +29,15 @@ h1,h4
 {
     width:50%;
 }
+
+.griditem
+{
+    background-color: lightgray;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.gridimg
+{
+    width:100%;
+}
