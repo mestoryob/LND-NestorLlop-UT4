@@ -68,3 +68,8 @@ a:hover, .nav-item
     color: #B9CCED!important;
 }
 
+.btn-primary
+{
+    background-color: #B9CCED !important;
+    color:black;
+}
