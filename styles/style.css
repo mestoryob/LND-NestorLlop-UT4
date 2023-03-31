@@ -3,9 +3,9 @@
     font-family:Roboto Mono;
 }
 
-body
+body, .card-body
 {
-    background-color: #F6E7E6;
+    background-color: #F6E7E6 !important;
 }
 
 nav
@@ -47,9 +47,15 @@ h1,h4
 
 .griditem
 {
-    background-color: #F6E5F5;
+    background-color: #F6E7E6;
     border-radius: 15px;
     padding: 20px;
+    text-align: center;
+}
+
+.gridcap
+{
+    background-color: #F6E5F5;
 }
 
 .gridimg
