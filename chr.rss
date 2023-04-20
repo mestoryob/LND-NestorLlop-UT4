@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Nuevas versiones de Mikrotik CHR</title>
+    <link>https://nlguerra2003-ies.github.io/LND-NestorLlop-UT4/</link>
+    <description>Canal RSS para conocer las últimas versiones de Mikrotik CHR</description>
+    <language>es</language>
+    <item>
+      <title>Mikrotik CHR v7.2 ya está disponible</title>
+      <link>https://nlguerra2003-ies.github.io/LND-NestorLlop-UT4/</link>
+      <description>La nueva versión de Mikrotik CHR v7.2 incluye mejoras en la estabilidad y
+        seguridad del sistema.</description>
+      <pubDate>Vie, 20 Abr 2023 14:00:00 GMT</pubDate>
+      <category>Mikrotik CHR</category>
+      <category>Mikrotik</category>
+      <category>Actualización de software</category>
+      <enclosure url="https://nlguerra2003-ies.github.io/LND-NestorLlop-UT4/images/113442736.jpg"
+        type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mikrotik CHR v7.1.2 soluciona errores de la versión anterior</title>
+      <link>https://nlguerra2003-ies.github.io/LND-NestorLlop-UT4/</link>
+      <description>La nueva versión de Mikrotik CHR v7.1.2 corrige varios errores que se habían
+        detectado en la versión anterior.</description>
+      <pubDate>Lun, 17 Abr 2023 11:30:00 GMT</pubDate>
+      <category>Mikrotik CHR</category>
+      <category>Mikrotik</category>
+      <category>Actualización de software</category>
+      <enclosure url="https://nlguerra2003-ies.github.io/LND-NestorLlop-UT4/images/113442736.jpg"
+        type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mikrotik CHR v7.0 incorpora nuevas funcionalidades</title>
+      <link>https://nlguerra2003-ies.github.io/LND-NestorLlop-UT4/</link>
+      <description>La nueva versión de Mikrotik CHR v7.0 incluye nuevas funcionalidades para mejorar
+        la gestión de redes.</description>
+      <pubDate>Mié, 12 Abr 2023 16:45:00 GMT</pubDate>
+      <category>Mikrotik CHR</category>
+      <category>Mikrotik</category>
+      <category>Actualización de software</category>
+      <enclosure url="https://nlguerra2003-ies.github.io/LND-NestorLlop-UT4/images/113442736.jpg"
+        type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
